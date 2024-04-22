@@ -4,3 +4,4 @@ The Grocery app connects users with small, local markets, encouraging connection
 <img width="1680" alt="Screenshot 2024-04-21 at 9 27 38 PM" src="https://github.com/Snehitha20/GroceryApp/assets/83685708/a4e9ee93-0b23-488b-a03b-3ca58803bc26">
 
 <img width="1680" alt="Screenshot 2024-04-21 at 9 27 49 PM" src="https://github.com/Snehitha20/GroceryApp/assets/83685708/e4c7e107-0208-4035-9add-41a05a09f8ac">
+<img width="1680" alt="Screenshot 2024-04-21 at 9 27 55 PM" src="https://github.com/Snehitha20/GroceryApp/assets/83685708/4d2bcfc1-cbb8-4863-abc4-36fa7304a23e">
